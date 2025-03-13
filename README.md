@@ -4,7 +4,7 @@
 
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
 - 🚀 Looking for **25 Summer** Internship/Coop, and **New Grad** roles for 2025!
-- 💻 Interested in backend, fullstack, distributed systems, microservices, and cloud infrastructure
+- 💻 Interested in backend, fullstack, distributed systems, microservices, and machine learning
 - 🌱 Love plants, bird watching, and Rock music!
 - 📮 Reachout me: yuan.yh7@outlook.com
 - 🙋 Software Developer Coop @ Clynk
