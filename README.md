@@ -2,9 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=500&size=35&pause=500&color=0D8B19&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=65&lines=Hi!+I'm+Yuan%F0%9F%91%8B;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 </h1>
 
-- 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
+- 🌟 Currently pursuing master degree in Computer Science @ Northeastern University
 - 🚀 Looking for **New Grad** roles for 2025!
-- 💻 Interested in backend, fullstack, distributed systems, microservices, and machine learning
+- 💻 Interested in backend, fullstack, agent development, distributed systems, microservices, and machine learning
 - 🌱 Love plants, bird watching, and Rock music!
 - 📮 Reachout me: yuan.yh7@outlook.com
 - 🙋 Software Developer Intern @ Clynk
