@@ -7,7 +7,7 @@
 - 💻 Interested in backend, fullstack, agent development, distributed systems, microservices, and machine learning
 - 🌱 Love plants, bird watching, and Rock music!
 - 📮 Reachout me: yuan.yh7@outlook.com
-- 🙋 Software Developer Intern @ Clynk
+- 🙋 AI Engineer Intern @ Northeastern / Software Developer Intern @ Clynk
 
 
 <h3 align="left">Connect with me:</h3>
