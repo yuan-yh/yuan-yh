@@ -3,7 +3,7 @@
 </h1>
 
 - 🌟 Currently pursuing master degree in Computer Science @ Northeastern University
-- 🚀 Looking for **New Grad** roles for 2025!
+- 🚀 Looking for **New Grad** roles starting 2026!
 - 💻 Interested in backend, fullstack, agent development, distributed systems, microservices, and machine learning
 - 🌱 Love plants, bird watching, and Rock music!
 - 📮 Reachout me: yuan.yh7@outlook.com
