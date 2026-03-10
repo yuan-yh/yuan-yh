@@ -3,9 +3,9 @@
 </h1>
 
 - 🌟 Currently pursuing master degree in Computer Science @ Northeastern University
-- 🚀 Looking for **New Grad** roles starting 2026!
-- 💻 Interested in backend, fullstack, agent development, distributed systems, and prompt engineering
-- 🌱 Love plants, bird watching, and Rock music!
+- 🚀 Looking for opporunities **available immediately**!
+- 💻 Interested in backend, fullstack, agent development, distributed systems, and data processing
+- 🌱 Love plants, seagull watching, and Rock music!
 - 📮 Reachout me: yuan.yh7@outlook.com
 - 🙋 Ex-AI R&D Intern @ Northeastern / Ex-SDE Intern @ Clynk
 
