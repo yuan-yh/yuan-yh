@@ -20,7 +20,7 @@
 ### **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,c,cpp,spring,express,react,nextjs&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,c,cpp,spring,react,nextjs&perline=11" />
   </a>
 </p>
 
