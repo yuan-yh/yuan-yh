@@ -4,7 +4,7 @@
 
 - 🌟 Currently pursuing master degree in Computer Science @ Northeastern University
 - 🚀 Looking for opporunities **available immediately**!
-- 💻 Interested in backend, fullstack, agent development, distributed systems, and data processing
+- 💻 Interested in fullstack, agent development, distributed systems, and data processing
 - 📮 Reachout me: yuan.yh7@outlook.com
 - 🙋 Ex-AI R&D Intern @ Northeastern / Ex-SDE Intern @ Clynk
 
@@ -20,7 +20,7 @@
 ### **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,spring,express,nodejs,react,nextjs&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,c,cpp,spring,express,nodejs,react,nextjs&perline=11" />
   </a>
 </p>
 
@@ -31,9 +31,9 @@
   </a>
 </p>
 
-### **Databases & Communication**
+### **Databases & LLM**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=11" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,pytorch,ai,opencv,sklearn&perline=11" />
   </a>
 </p>
